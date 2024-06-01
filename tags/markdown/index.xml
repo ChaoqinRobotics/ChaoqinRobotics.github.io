@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown | Chaoqin Academic CV Theme</title>
+    <title>Markdown | Chao Academic CV Theme</title>
     <link>https://ChaoqinRobotics.github.io/tags/markdown/</link>
       <atom:link href="https://ChaoqinRobotics.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
@@ -86,7 +86,7 @@
 
 
 
-&lt;div id=&#34;chart-423968175&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-238197546&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -104,7 +104,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-423968175&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-238197546&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
