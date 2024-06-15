@@ -10,6 +10,42 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication_types/article/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication_types/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/tags/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/tags/time-optimal-control/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication/preprint/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication_types/paper-conference/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication/qin2024time/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/tags/time-optimal-motion-planner/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ChaoqinRobotics.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ChaoqinRobotics.github.io/tags/markdown/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,52 +138,32 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication_types/article-journal/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/tags/image-based-visual-servoing/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ChaoqinRobotics.github.io/publication/qin2023perception/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ChaoqinRobotics.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication_types/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://ChaoqinRobotics.github.io/tags/lidar-slam/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ChaoqinRobotics.github.io/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication_types/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication_types/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ChaoqinRobotics.github.io/publication/test/</loc>
-    <lastmod>2011-04-07T00:00:00+00:00</lastmod>
+    <loc>https://ChaoqinRobotics.github.io/publication/qin2020lins/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
